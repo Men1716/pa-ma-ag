@@ -1,6 +1,7 @@
 #Estudiante Mauricio Aguilar Garcia
 ##Carrera Analista de sistemas
-### 1  git status
+
+    1  git status
     2  git --version
     3  ls -la
     4  ls -ltr
@@ -26,4 +27,5 @@
    24  history 
    25  history
    26  history > historial_comandos.txt
+
 
